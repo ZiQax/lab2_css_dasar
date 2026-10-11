@@ -1,4 +1,4 @@
-# Web1Lab1: Laporan Praktikum 3 - CSS Dasat
+# Web1Lab1: Laporan Praktikum 3 - CSS Dasar
 
 Repositori ini berisi hasil pengerjaan Praktikum 3 mata kuliah Pemrograman Web mengenai penggunaan element-element CSS Dasar.
 
