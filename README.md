@@ -76,16 +76,13 @@ Menambahkan ID selector pada file styling CSS yaitu `#intro`, `#intro h1`, `.but
   ![Clone Github](/img/image-14.png)
 
 - **Masuk ke folder workspace**
-  ![Masuk Workspace](/images/image-12.png)
+  ![Masuk Workspace](/img/image-15.png)
 
 - **Memindahkan perubahan file dari working directory ke staging area**
-  ![Git Add](/images/image-13.png)
+  ![Git Add](/img/image-16.png)
 
 - **Melakukan Commit**
-  ![Git Commit](/images/image-14.png)
-
-- **Melakukan Konfigurasi Global**
-  ![Git Config](/images/image-15.png)
+  ![Git Commit](/img/image-17.png)
 
 - **Melakukan Push directory ke GitHub**
-  ![Git Push](/images/image-16.png)
+  ![Git Push](/img/image-18.png)
