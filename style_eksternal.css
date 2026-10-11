@@ -1,0 +1,42 @@
+nav {
+background: #20A759;
+color:#fff;
+box-shadow:rgb(22, 22, 22);
+padding: 10px;
+}
+nav a {
+color: #fff;
+text-decoration: none;
+padding:10px 20px;
+}
+nav .active,
+nav a:hover {
+background: #0B6B3A;
+}
+#intro {
+margin-top: 10px;
+border: 1px solid #099249;
+min-height: 100px;
+padding: 10px;
+}
+#intro h1 {
+text-align: left;
+border: 0;
+color:black;
+}
+p{
+    margin-left: 50px;
+}
+/* Class Selector */
+.button {
+padding: 15px 20px;
+background: #bebcbd;
+color: #fff;
+display: inline-block;
+margin: 10px;
+text-decoration: none;
+}
+.btn-primary {
+background: #E42A42;
+border-radius: 10px;
+}
